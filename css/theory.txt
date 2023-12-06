@@ -1,0 +1,35 @@
+======Transitions=====
+
+1. transition-property:
+
+2. transition-duration: 2s/1ms..
+
+3. transition-timing-function: ease-in/ease-out/linear...
+
+4. transition-delay: 2s/3ms..
+
+
+a:hover
+a:active
+
+
+======Aimation=====
+
+@keyframes name1{
+    from{-----}
+    to{------}
+}
+
+@keyframes name2{
+    from{-----}
+    to{------}
+}
+
+Animation property
+
+1. animation-name
+2. animation-duration
+3. animation-timing-function
+4. animation-delay
+5. animation-iteration-count
+6. animation-direction
